@@ -6,10 +6,10 @@ WELCOME TO MY GITHUB DIGITAL PORTFOLIO
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zamani079&label=Profile%20views&color=0e75b6&style=flat" alt="zamani079" /> </p>
 
-
-- ⁠**⁠1.BUSINESS COMMUNICATION**
+## ⁠1.BUSINESS COMMUNICATION
 - **Evidence**
-
+## Certifications
+![Coursera Certificate](./Coursera%20PZMNMMFTRRZM_page-0001.jpg)
 **Situation:**
 When i was doing my Cyber Security Communication course, I was required to demonstrate professional and technical communication skills in both written and spoken formats. This included completing a communication focused certification and presenting a report that explored how effective communication supports cybersecurity awareness and response.
 
