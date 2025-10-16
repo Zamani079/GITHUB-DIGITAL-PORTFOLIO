@@ -67,7 +67,7 @@ I updated my LinkedIn profile with detailed information about my academic backgr
 These activities gave me deeper insight into current trends and practices within the ICT sector. I also became more aware of how valuable professional networking can be in discovering new opportunities and staying informed about industry developments. Building and maintaining my LinkedIn presence has not only improved my confidence in presenting myself online but also strengthened my ability to connect meaningfully with others in my field.
  ## 5. WORKPLACE ETIQUETTE
 ## Certification
-
+![Professional Certificate 3](./Screenshot%202025-10-17%20at%2000.59.15.png)
 
 ## Situation:
 While working at Plum Systems, I was part of a collaborative project team responsible for developing and refining a client’s application. The environment required both independent problem-solving and close teamwork to ensure that the final product met the client’s design expectations.
@@ -81,6 +81,10 @@ Throughout the project, I took an active role in coding, testing, and refining a
 ## Result:
 The project strengthened my technical abilities and deepened my understanding of teamwork in a professional development setting. I learned how to balance client expectations with technical requirements and how effective communication between developers and leads contributes to a smooth workflow. Overall, the experience helped me grow both as a developer and as a collaborator, giving me real-world insight into delivering high-quality solutions as part of a team.
 
+## CONCLUSION
+Through all these experiences  from completing interview and communication training to developing my professional network and contributing to real projects at Plum Systems  I’ve built a solid foundation of workplace and technical skills. I learned how to communicate with confidence, collaborate effectively within a team, and adapt to professional environments with discipline and respect. Working on both the frontend and backend of client applications also strengthened my problem-solving and technical capabilities. Altogether, this journey has not only improved my confidence and professionalism but also prepared me to enter the industry ready to contribute, learn, and grow in my career.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/zamani-mcondisi-director-madonsela-07873b237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zamani-mcondisi-director-madonsela-07873b237" height="30" width="40" /></a>
@@ -89,5 +93,13 @@ The project strengthened my technical abilities and deepened my understanding of
 <h3 align="left">Languages and Tools that i use:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zamani079&show_icons=true&locale=en&layout=compact" alt="zamani079" /></p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
