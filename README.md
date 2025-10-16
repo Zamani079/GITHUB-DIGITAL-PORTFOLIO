@@ -6,12 +6,12 @@ WELCOME TO MY GITHUB DIGITAL PORTFOLIO
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zamani079&label=Profile%20views&color=0e75b6&style=flat" alt="zamani079" /> </p>
 
-- 🔭 I’m currently working on **Car-Accessories**
+
 - ⁠**⁠1.BUSINESS COMMUNICATION**
 - **Evidence**
 
 **Situation:**
-During my Cyber Security Communication course, I was required to demonstrate professional and technical communication skills in both written and spoken formats. This included completing a communication focused certification and presenting a report that explored how effective communication supports cybersecurity awareness and response.
+When i was doing my Cyber Security Communication course, I was required to demonstrate professional and technical communication skills in both written and spoken formats. This included completing a communication focused certification and presenting a report that explored how effective communication supports cybersecurity awareness and response.
 
 **Task:**
 My main task was to research, write, and present a professional report showing how clear and strategic communication can strengthen cybersecurity efforts  particularly in preventing and responding to potential threats.
