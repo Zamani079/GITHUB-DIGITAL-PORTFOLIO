@@ -23,7 +23,7 @@ I conducted detailed research on real world cybersecurity incidents and analyzed
 Through this experience, I gained a much deeper understanding of how communication directly impacts cybersecurity management. It improved my ability to translate technical information into clear, actionable messages and strengthened both my research and presentation skills. Earning the certificate reinforced my capability to communicate effectively and confidently within a professional cybersecurity context.
 ## 2. INTERVIEW SKILLS
 ## Certification
-
+![How to Make a Positive First Impression with a Hiring Manager](./CertificateOfCompletion_How%20to%20Make%20a%20Positive%20First%20Impression%20with%20a%20Hiring%20Manager_page-0001.jpg)
 ## Situation:
 As part of my professional development, I completed a LinkedIn Learning course titled “How to Make a Positive First Impression with a Hiring Manager,” taught by career coach Brittany Hayles. The course focused on practical strategies to help candidates stand out during interviews by improving communication, preparation, and overall confidence.
 
@@ -35,6 +35,9 @@ Throughout the course, I practiced how to craft an engaging elevator pitch, rese
 
 ## Result:
 After completing the course, I noticed a significant improvement in how I approach interviews. I became more confident in structuring my answers, maintaining professionalism under pressure, and expressing genuine enthusiasm. More importantly, I learned that interview success isn’t just about rehearsing answers — it’s about preparation, self-awareness, and creating a meaningful connection with the interviewer.
+## 3. MOCK INTERVIEW
+## Certification
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
