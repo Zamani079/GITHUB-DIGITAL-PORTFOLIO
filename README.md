@@ -8,7 +8,7 @@ WELCOME TO MY GITHUB DIGITAL PORTFOLIO
 
 ## ⁠1.BUSINESS COMMUNICATION
 - **Evidence**
-## Certifications
+## Certification
 ![Coursera Certificate](./Coursera%20PZMNMMFTRRZM_page-0001.jpg)
 **Situation:**
 When i was doing my Cyber Security Communication course, I was required to demonstrate professional and technical communication skills in both written and spoken formats. This included completing a communication focused certification and presenting a report that explored how effective communication supports cybersecurity awareness and response.
@@ -21,6 +21,20 @@ I conducted detailed research on real world cybersecurity incidents and analyzed
 
 **Result:**
 Through this experience, I gained a much deeper understanding of how communication directly impacts cybersecurity management. It improved my ability to translate technical information into clear, actionable messages and strengthened both my research and presentation skills. Earning the certificate reinforced my capability to communicate effectively and confidently within a professional cybersecurity context.
+## 2. INTERVIEW SKILLS
+## Certification
+
+## Situation:
+As part of my professional development, I completed a LinkedIn Learning course titled “How to Make a Positive First Impression with a Hiring Manager,” taught by career coach Brittany Hayles. The course focused on practical strategies to help candidates stand out during interviews by improving communication, preparation, and overall confidence.
+
+## Task:
+My goal was to strengthen my interview skills — to learn how to present myself more effectively, tailor my responses to specific roles and companies, and make a genuine connection with hiring managers. I also wanted to understand what goes into a strong first impression and how to use it to build trust and rapport from the start of an interview.
+
+## Action:
+Throughout the course, I practiced how to craft an engaging elevator pitch, research potential employers in depth, and adapt my answers to highlight skills that align with the job. I also learned the importance of interview etiquette, from professional body language to thoughtful follow-up communication. Another key part of the training involved developing the ability to ask insightful questions — not just to impress the interviewer, but to show real curiosity and fit for the role.
+
+## Result:
+After completing the course, I noticed a significant improvement in how I approach interviews. I became more confident in structuring my answers, maintaining professionalism under pressure, and expressing genuine enthusiasm. More importantly, I learned that interview success isn’t just about rehearsing answers — it’s about preparation, self-awareness, and creating a meaningful connection with the interviewer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
