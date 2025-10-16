@@ -25,7 +25,7 @@ Through this experience, I gained a much deeper understanding of how communicati
 ## Certification
 ![How to Make a Positive First Impression with a Hiring Manager](./CertificateOfCompletion_How%20to%20Make%20a%20Positive%20First%20Impression%20with%20a%20Hiring%20Manager_page-0001.jpg)
 ## Situation:
-As part of my professional development, I completed a LinkedIn Learning course titled “How to Make a Positive First Impression with a Hiring Manager,” taught by career coach Brittany Hayles. The course focused on practical strategies to help candidates stand out during interviews by improving communication, preparation, and overall confidence.
+I completed a LinkedIn Learning course titled “How to Make a Positive First Impression with a Hiring Manager,” taught by career coach Brittany Hayles. The course focused on practical strategies to help candidates stand out during interviews by improving communication, preparation, and overall confidence.
 
 ## Task:
 My goal was to strengthen my interview skills — to learn how to present myself more effectively, tailor my responses to specific roles and companies, and make a genuine connection with hiring managers. I also wanted to understand what goes into a strong first impression and how to use it to build trust and rapport from the start of an interview.
@@ -37,7 +37,33 @@ Throughout the course, I practiced how to craft an engaging elevator pitch, rese
 After completing the course, I noticed a significant improvement in how I approach interviews. I became more confident in structuring my answers, maintaining professionalism under pressure, and expressing genuine enthusiasm. More importantly, I learned that interview success isn’t just about rehearsing answers — it’s about preparation, self-awareness, and creating a meaningful connection with the interviewer.
 ## 3. MOCK INTERVIEW
 ## Certification
+![Nano Tips for Nailing Your Job Interview with Sho Dewan](./CertificateOfCompletion_Nano%20Tips%20for%20Nailing%20Your%20Job%20Interview%20with%20Sho%20Dewan_page-0001.jpg)
+## Situation:
+I did a mock interview through LinkedIn Learning titled “Nano Tips for Nailing Your Job Interview with Sho Dewan.” The short, seven-minute session simulated a real interview experience and included ten professional questions tailored to my field of study.
 
+## Task:
+My goal was to demonstrate interview readiness by responding to each question with clarity and professionalism. I aimed to apply the STAR method — outlining the Situation, Task, Action, and Result — while also showing confidence and self-awareness throughout my answers.
+
+## Action:
+Before the session, I reviewed common interview questions and reflected on my past experiences to find strong, relevant examples. I practiced structuring my responses so that they flowed naturally while staying focused on key points. During the mock interview, I paid attention to my posture, tone, and pacing, aiming to come across as confident and composed. I also focused on communicating my understanding of workplace expectations and how I could add value in a professional setting.
+
+## Result:
+The feedback from the mock interview was encouraging and highlighted my clear communication, growing confidence, and professional demeanor. It also helped me recognize areas I could still improve, such as refining how I summarize my achievements and manage time while answering. Overall, the experience gave me practical insight into what it feels like to be in a real interview and helped me feel more prepared for future opportunities.
+
+ ## 4. PROFESSIONAL NETWORKING
+## Certification
+
+## Situation:
+As part of the program’s focus on professional growth, I developed and refined my LinkedIn profile to build a stronger online presence. This exercise aimed to help me position myself professionally and connect with others in the industry.
+
+## Task:
+My objective was to establish a credible digital identity, expand my network by connecting with professionals in the ICT field, and explore career opportunities related to Application Development.
+
+## Action:
+I updated my LinkedIn profile with detailed information about my academic background, technical skills, and professional interests. I included my internship experience at Plum Systems and made an effort to engage with posts, discussions, and learning content shared within relevant communities.
+
+## Result:
+These activities gave me deeper insight into current trends and practices within the ICT sector. I also became more aware of how valuable professional networking can be in discovering new opportunities and staying informed about industry developments. Building and maintaining my LinkedIn presence has not only improved my confidence in presenting myself online but also strengthened my ability to connect meaningfully with others in my field.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
